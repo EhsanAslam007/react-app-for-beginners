@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "checked": false,
+      "item": "Almonds"
+    },
+    {
+      "id": "2",
+      "checked": false,
+      "item": "Pizza"
+    },
+    {
+      "id": "1",
+      "checked": false,
+      "item": "Bread"
+    },
+    {
+      "id": "r8u-9ajTgP4",
+      "checked": false,
+      "item": "Butter"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

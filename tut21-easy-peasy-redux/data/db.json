@@ -1,0 +1,41 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "1st posttt",
+      "datetime": "July 13, 2026 6:33:08 PM",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "id": "2",
+      "title": "Second post",
+      "datetime": "July 16, 2021 11:47:48 AM",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. two"
+    },
+    {
+      "id": "3",
+      "title": "Number 23",
+      "datetime": "July 20, 2026 12:05:32 AM",
+      "body": "Third post... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "id": "BI6sKzEuJRE",
+      "title": "Redux ",
+      "datetime": "July 20, 2026 12:10:59 AM",
+      "body": "Testing easy peasy store!!"
+    },
+    {
+      "id": "B1u_fIkVf-0",
+      "title": "Test Post 77",
+      "datetime": "July 20, 2026 2:59:26 AM",
+      "body": "No Warning"
+    },
+    {
+      "id": "ZXk5YsnvEmA",
+      "title": "Post 8",
+      "datetime": "July 20, 2026 3:05:08 AM",
+      "body": "Hi!!"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
